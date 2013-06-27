@@ -1,4 +1,4 @@
 SciPy2013
 =========
 
-slides for my scipy talk
+Powerpoint presentation for my talk entitled 'Data Agnosticism: Feature Engineering Without Domain Expertise'
